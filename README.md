@@ -3,6 +3,7 @@
     Thành viên thực hiện dự án
     Hoàng Văn Dũng ( trưởng nhóm)
     Lê hải Đăng
+    Lớp DHCN1C
 
 ## Ý tưởng
     Để tiện lợi cho việc mua bán thanh toán, Và lưu trữ thông tin mặt hàng nhân viên một cách tối ưu 
