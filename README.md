@@ -1,14 +1,13 @@
-XÂY DỰNG PHẦN MỀM QUẢN LÝ SHOP QUẦN ÁO
+## XÂY DỰNG PHẦN MỀM QUẢN LÝ SHOP QUẦN ÁO
 
     Thành viên thực hiện dự án
     Hoàng Văn Dũng ( trưởng nhóm)
     Lê hải Đăng
 
-Ý tưởng
-     
-     Quản Lý Shop Quần Áo được xây dựng trên ý tưởng về 1 phần mềm hệ thống bán hàng tiện lợi,ngắn gọn với những lợi ích giúp quẩn lý từ nhập xuất tới thống kê sơ bộ hàng tháng tiện lợi trong việc kiểm soát mặt hàng.
+## Ý tưởng
+     Quản Lý Shop Quần Áo được xây dựng trên ý tưởng về 1 phần mềm hệ thống bán hàng tiện lợi,ngắn gọn với những lợi ích giúp   quẩn lý từ nhập xuất tới thống kê sơ bộ hàng tháng tiện lợi trong việc kiểm soát mặt hàng.
     
-    Mục têu sử dụng
+    # Mục têu sử dụng
     tiết kiệm công sức con người
     Tiết kiệm thời gian
     Thuận tiện cho việc kiểm soát mặt hàng
@@ -19,7 +18,7 @@ XÂY DỰNG PHẦN MỀM QUẢN LÝ SHOP QUẦN ÁO
     Phần mềm được sử dụng rỗng rãi cho toàn quốc với các hệ thống cửa hàng nhỏ và vừa.
     Nâng cao hỗ trợ các tiện ích về lưu trữ số liệu . tính toán giá cả . tìm kiếm và bảo trì.
    
-Sơ Bộ Phần Mềm
+## Sơ Bộ Phần Mềm
     
     Phần mềm quản lý shop quần áo có chức năng chính như:
     Quản lý Nhân Viên : Lưu trữ thông tin nhân viên,họ tên, ngày tháng năm sinh, quê quán,chức vụ...
@@ -27,7 +26,7 @@ Sơ Bộ Phần Mềm
     Quản lý hóa đơn và chi tiết hóa đơn: Giúp nhân viên lưu trữ thông tin há đơn và xuất hóa đơn in ra cho khách hàng....
     Quản lý nhà cung cấp: Lưu trữ thông tin cách nhà cung cấp đã ký kết hợp đồng làm ăn lâu dài để tiện cho việc nhập xuất.
 
-Thông tin về giấy phép
+## Thông tin về giấy phép
 
     Giấy phép Mit
 
