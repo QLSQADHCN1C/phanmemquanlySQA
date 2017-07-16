@@ -33,4 +33,4 @@ Chi tiết liên hệ:
 SDT: 0965699975
 
 ## Trang Page của cửa hàng ( Trang quảng cáo)
-https://www.facebook.com/%C4%90%E1%BB%9Di-Sinh-Vi%C3%AAn-1851938281698436/
+Fanpage: https://www.facebook.com/%C4%90%E1%BB%9Di-Sinh-Vi%C3%AAn-1851938281698436/
