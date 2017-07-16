@@ -1,4 +1,4 @@
-Giấy phép BSD sửa đổi - Tổng quan
+<p><img src="https://www.haravan.com/hocvien/wp-content/uploads/2015/04/ma-nguon-mo-la-gi-va-nhung-dieu-can-biet-p2-hinh-anh-1.jpg"></p>
 
 ## The Modified BSD License - An Overview
   By Rowan Wilson, Published: 10 November 2005, Reviewed: 14 May 2012
