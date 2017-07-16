@@ -50,6 +50,8 @@
   Cách Sử Dụng: Người Dùng nhập thông tin đầy đủ dữ liệu trước khi .insert, update,save.....
  
   Lưu Ý: Do đây là bản Phần mềm đang được cập nhật nên vẫn chưa được hoàn thiện cần sự đóng góp của quý khách hàng ,từ đó rút ra kinh nghiệm và bổ sung sửa đổi,nâng cấp sau này.
+  
     - Trong 3 lệnh insert,update,Delete cần chọn thực hiện lệnh trước sau đó mới nhập thông tin và save
+    
       VD: để Lưu Thông tin về 1 mặt hàng có TT như sau: MaHH :M10,TenHH: Áo Thun Dài Tay,Giá:100000,Đơn Vị Tính:VNĐ,Mã NCC:MAN2
       Chúng ta cần chọn nút Insert sau đó nhập thông tin như trên rồi Nhấn Nút Save.
