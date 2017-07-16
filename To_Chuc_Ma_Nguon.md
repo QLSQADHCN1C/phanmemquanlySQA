@@ -8,12 +8,6 @@
 
 ví dụ :
 
-Package DAL;
-
-import java.sql.*;
-
-import javax.swing.*;
-
 public class ConnectDAL {
     // kết nối với CSDL
     
