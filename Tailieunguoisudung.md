@@ -17,3 +17,18 @@
 <p><img src="https://scontent.fdad3-2.fna.fbcdn.net/v/t1.0-9/20106286_683435071867745_6363357483926006421_n.jpg?oh=614065735c3535974b7d838248012244&oe=5A111426"></p>
 9.Giao Diện Tìm Kiếm Theo Mã
 <p><img src="https://scontent.fdad3-2.fna.fbcdn.net/v/t1.0-9/20046543_683435068534412_6993630042130811558_n.jpg?oh=d3eab008fbf4181faee0d10c52e269a0&oe=5A0E05A6"></p>
+10.Chú Ý Và Cách Sử Dụng
+  Các Nút Và Chức Năng Cụ Thể:
+    -First: Nút hiển thị cho đầu danh sách
+    -Last: Nút hiển thị cho cuối danh sách
+    -Prerious: Nút Tời Lên
+    -Next: Nút Tời Xuống
+    -Insert:Nút Chọn Thêm Thông Tin
+    -Update: Nút chọn sửa thông tin
+    -Delete: Nút Chọn Xóa Thông Tin
+    -Save: Nút xác nhận lưu thông tin vừa thao tác
+  Cách Sử Dụng: Người Dùng nhập thông tin đầy đủ dữ liệu trước khi .insert, update,save.....
+  Lưu Ý: Do đây là bản Phần mềm đang được cập nhật nên vẫn chưa được hoàn thiện cần sự đóng góp của quý khách hàng ,từ đó rút ra kinh nghiệm và bổ sung sửa đổi,nâng cấp sau này.
+    - Trong 3 lệnh insert,update,Delete cần chọn thực hiện lệnh trước sau đó mới nhập thông tin và save
+    VD: để Lưu Thông tin về 1 mặt hàng có TT như sau: MaHH :M10,TenHH: Áo Thun Dài Tay,Giá:100000,Đơn Vị Tính:VNĐ,Mã NCC:MAN2
+    Chúng ta cần chọn nút Insert sau đó nhập thông tin như trên rồi Nhấn Nút Save.
