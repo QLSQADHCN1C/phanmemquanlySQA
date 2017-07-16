@@ -37,6 +37,7 @@
 # 10.Chú Ý Và Cách Sử Dụng
 
    Các Nút Và Chức Năng Cụ Thể:
+   
      -First: Nút hiển thị cho đầu danh sách
      -Last: Nút hiển thị cho cuối danh sách
      -Prerious: Nút Tời Lên
