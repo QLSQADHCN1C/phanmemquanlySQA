@@ -18,5 +18,6 @@ DFD Quản Lý Nhập Xuất
 DFD Quản Lý Bán Hàng
 <p><img src="https://scontent.fdad3-2.fna.fbcdn.net/v/t1.0-9/19961471_683567935187792_1380802811339806226_n.jpg?oh=61185750c4d8351ba2e0aa6c33aa1069&oe=59FC4572"></p>
 # Sơ Đồ QUan Hệ (ERD)
+
 <p><img src="https://scontent.fdad3-2.fna.fbcdn.net/v/t1.0-9/20046745_683568151854437_3064097255819439932_n.jpg?oh=54861c432feb8cac5d0e686b1a493d26&oe=59FBA51F"></p>
 
