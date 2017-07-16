@@ -1,4 +1,4 @@
-<p><img src="https://phamlaw.com/wp-content/uploads/2015/03/shop-quan-ao.jpg"></p>
+<p><img src="https://blog.bizweb.vn/wp-content/uploads/2015/10/Cach-thiet-lap-mot-cua-hang-quan-ao-dep-toan-dien-tu-dau-den-chan-4.jpg"></p>
 ## XÂY DỰNG PHẦN MỀM QUẢN LÝ SHOP QUẦN ÁO
 
     Thành viên thực hiện dự án
