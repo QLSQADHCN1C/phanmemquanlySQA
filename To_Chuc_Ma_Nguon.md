@@ -3,10 +3,12 @@
 Để thống nhất và tuân thủ quy tắc đặt tên sẽ giúp dễ dàng quản lý project của mình, tăng khả năng sử dụng lại code, thuận tiện trong việc trao đổi với nhóm, dễ dàng mở rộng nhóm. Cách đặt tên dễ hiểu, dễ nhớ còn giúp bạn “nhẹ đầu” hơn khi phải đọc lại code của chính mình. Thì các thành viên trong nhóm chúng xẽ thống nhất với nhau xẽ làm việc theo chuẩn sau:
 
 + Tổ chức lập trình: Chúng ta xẽ triển khai dự án theo mô hình 3 lớp.
-- Preject DAL: kết nối dữ liệu với Sql
-ví dụ :
-Package DAL;
 
+- Preject DAL: kết nối dữ liệu với Sql
+
+ví dụ :
+
+Package DAL;
 
 import java.sql.*;
 import javax.swing.*;
