@@ -6,7 +6,6 @@ B2: Tạo class trong DAL. Trong DAL có các class chứa các chức năng k�
 <p><img src="https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/20108622_683472358530683_6520671058873428397_n.jpg?oh=4ed920706b3a3511793b9c71e01176e2&oe=5A0A56FD"></p>
 B3: Tạo class trong BLL để liên kết với các bảng trong csdl
 <p><img src="https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/20031546_683472355197350_6610075986209625925_n.jpg?oh=ca150ad7cb651e66eded3bc9068388b7&oe=59FC6341"></p>
-<p><img src=""></p>
 B4: Tạo class trong GUI. Trong GUI có các class chứa các chức năng thực thi truy vấn như thêm, sửa, xóa, cập nhật vào csdl.
 Ở đây câu lệnh truy vấn được đặt bên DAL và ta chỉ việc gọi lại bên GUI
 <p><img src="https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/20106516_683472385197347_6394497937375280678_n.jpg?oh=689914a801e615e07ba3edf626eb7c53&oe=5A042805"></p>
@@ -20,4 +19,3 @@ B4: Tạo class trong GUI. Trong GUI có các class chứa các chức năng th�
      txtNgayHH.ReadOnly = true;
 Trong đó: txtNgayHH là textbox mà bạn muốn đặt chế độ chỉ đọc
 <p><img src="https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-0/s480x480/20046616_683477808530138_2629516118665040378_n.jpg?oh=e25a47cc04bb310841669b4af2d7ddde&oe=5A0B8B20"></p>
-g
