@@ -1,3 +1,4 @@
+<p><img src="https://phamlaw.com/wp-content/uploads/2015/03/shop-quan-ao.jpg"></p>
 ## XÂY DỰNG PHẦN MỀM QUẢN LÝ SHOP QUẦN ÁO
 
     Thành viên thực hiện dự án
