@@ -34,5 +34,34 @@ public class ConnectDAL {
     
 }
 
+- Preject BLL : Lấy dữ liêu connect từ DAL
+
+Ví du Class BLL_HoaDon:
+
+public class ConnectHoaDon
+{
+    Connection con;
+    
+    public ConnectHoaDon()
+    {
+        //Khai báo chuối kết nối
+        String stringCon="jdbc:sqlserver://DESKTOP-5203ESB:1433;databaseName=QLSQA";
+        
+        try 
+        {
+            con = DriverManager.getConnection(stringCon, "sa", "123456");
+            
+        } catch (SQLException ex) 
+        
+        {
+        
+            java.util.logging.Logger.getLogger(ConnectHoaDon.class.getName()).log(Level.SEVERE, null, ex);
+            
+        }
+    }
+
+- Preject GUI: GUI Là phần tạo form
+    
+
 
 
