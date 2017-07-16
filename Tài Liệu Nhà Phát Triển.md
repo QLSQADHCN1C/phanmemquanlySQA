@@ -19,4 +19,4 @@ B4: Tạo class trong GUI. Trong GUI có các class chứa các chức năng th�
 
      txtNgayHH.ReadOnly = true;
 Trong đó: txtNgayHH là textbox mà bạn muốn đặt chế độ chỉ đọc
-<p><img src="https://www.facebook.com/photo.php?fbid=683477808530138&set=a.116759741868617.1073741838.100006037742697&type=3&theater"></p>
+<p><img src="https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-0/s480x480/20046616_683477808530138_2629516118665040378_n.jpg?oh=e25a47cc04bb310841669b4af2d7ddde&oe=5A0B8B20"></p>
