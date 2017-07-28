@@ -13,4 +13,4 @@
   
 + Lỗi khi không nhập đầy đủ thông tin.
 
-+Lỗi không sửa được thông tin danh sách hàng hóa trong SQL
++ Lỗi không sửa được thông tin danh sách hàng hóa trong SQL
